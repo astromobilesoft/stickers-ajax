@@ -1,0 +1,18 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.ajax",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"ryangravenberch1",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
