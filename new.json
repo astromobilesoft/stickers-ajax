@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"club2",
+         "name":"Club 2",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"eredivisie2122f30",
          "name":"vs Nijmegen",
          "animated_sticker_pack":false,
