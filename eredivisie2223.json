@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eredivisie2223f10a",
+         "name":"vs Excelsior (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eredivisie2223f10b",
+         "name":"vs Excelsior (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"eredivisie2223f9",
          "name":"vs FC Volendam",
          "animated_sticker_pack":false,
