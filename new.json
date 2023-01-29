@@ -3,10 +3,40 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"eredivisie2223f19",
-         "name":"vs Excelsior",
+         "identifier":"knvbbeker2223f16",
+         "name":"vs Don Bosch",
          "animated_sticker_pack":false,
-         "stickers":"30"
+         "stickers":"16"
+      },
+      {
+         "identifier":"ucl2223fg6",
+         "name":"vs Rangers",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"eredivisie2223f11a",
+         "name":"vs Waalwijk (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eredivisie2223f11b",
+         "name":"vs Waalwijk (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eredivisie2223f10a",
+         "name":"vs Excelsior (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eredivisie2223f10b",
+         "name":"vs Excelsior (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       },
       {
          "identifier":"eredivisie2223f9",
