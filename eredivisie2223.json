@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eredivisie2223f21",
+         "name":"vs Waalwijk",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"eredivisie2223f20",
          "name":"vs Cambuur",
          "animated_sticker_pack":false,
