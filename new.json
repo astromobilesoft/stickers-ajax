@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"knvbbeker2223f2a",
+         "name":"vs Feyenoord (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"knvbbeker2223f2b",
+         "name":"vs Feyenoord (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"eredivisie2223f25a",
          "name":"vs Heerenveen (1)",
          "animated_sticker_pack":false,
