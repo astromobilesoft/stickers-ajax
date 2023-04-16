@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eredivisie2223f29a",
+         "name":"vs FC Emmen (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eredivisie2223f29b",
+         "name":"vs FC Emmen (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"eredivisie2223f28",
          "name":"vs Sittard",
          "animated_sticker_pack":false,
