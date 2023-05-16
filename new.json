@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eredivisie2223f32",
+         "name":"vs Groningen",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"eredivisie2223f29a",
          "name":"vs FC Emmen (1)",
          "animated_sticker_pack":false,
