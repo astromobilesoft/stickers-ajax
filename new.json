@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eredivisie2223f33",
+         "name":"vs Utrecht",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"eredivisie2223f32",
          "name":"vs Groningen",
          "animated_sticker_pack":false,
